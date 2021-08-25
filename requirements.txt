@@ -21,14 +21,11 @@ importlib-metadata==3.1.1
 jdcal==1.4.1
 kiwisolver==1.1.0
 lxml==4.6.1
-matplotlib==3.1.2
 mysql-connector-python==8.0.25
-numpy==1.17.4
 openpyxl==3.0.2
 Pillow==8.0.1
 pipenv==2020.11.15
 pycparser==2.20
-pygame==2.0.1
 pyparsing==2.4.5
 python-dateutil==2.8.1
 pytz==2020.1
@@ -41,3 +38,5 @@ urllib3==1.26.2
 virtualenv==20.2.1
 virtualenv-clone==0.5.4
 zipp==3.4.0
+whitenoise-5.3.0
+gunicorn==19.9.0
